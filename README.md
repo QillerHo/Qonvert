@@ -24,5 +24,5 @@ Qonvert adalah aplikasi Android untuk membuat file VCF.
 ## Kontak
 - **Developer:** [@Qiventorie](https://t.me/Qiventorie)
 - **Telegram Channel:** [@Qiventory](https://t.me/Qiventory)
-- **Github:** [@QillerHo](https://QillerHo)
+- **Github:** [@QillerHo](https://github.com/QillerHo)
 
