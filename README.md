@@ -17,7 +17,7 @@ Qonvert adalah aplikasi Android untuk membuat file VCF.
   Setelah file dibuat, dapat langsung disimpan ke penyimpanan atau dibagikan tanpa menyimpannya.
 
 ## Instalasi
-1. [Unduh file APK](https://github.com/QillerHo/Qonvert/raw/main/Qonvert.apk).
+1. [Unduh APK](https://github.com/QillerHo/Qonvert/raw/main/Qonvert.apk).
 2. Izinkan pembaca penyimpanan kalo ada.
 3. Jalankan aplikasi.
 
