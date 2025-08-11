@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="media/logo.png" alt="Qonvert Logo" width="200"/>
+  <img src="docs/logo.png" alt="Qonvert Logo" width="200"/>
 </p>
 
 # Qonvert
