@@ -7,7 +7,7 @@
 Qonvert adalah aplikasi Android untuk membuat file VCF.
 
 ## Fitur
-- **TXT ke VCF Converter**  
+- **TXT tok VCF**  
   Mengubah daftar nomor telepon dari file `.txt` menjadi format `.vcf`.
 - **Split VCF**  
   Membagi file `.vcf` besar menjadi beberapa file kecil sesuai jumlah kontak per fil.
